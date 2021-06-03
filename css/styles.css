@@ -3,6 +3,14 @@ h1 {
   text-align: center;
 }
 
+h2 {
+
+}
+
+h3 { 
+
+}
+
 img {
   float: right;
   width: 20%;
@@ -11,4 +19,13 @@ img {
 
 body {
   background-color: antiquewhite;
+}
+
+.projects {
+  margin: 20px;
+  border: 50px black;
+  padding: 10px;
+  background-color: darkkhaki;
+  width: 20%;
+  border-width: 50px;
 }
