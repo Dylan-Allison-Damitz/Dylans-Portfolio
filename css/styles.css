@@ -1,59 +1,70 @@
 h1 {
   font-family: verdana;
   text-align: center;
+  font-size: xx-large;
+  color: antiquewhite;
 }
 
 img { 
   width: 25%;
-  height: 30%;
-  border: 5px solid gray;
+  height: 70%;
+  border: 5px solid antiquewhite;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 50px;
 
 }
 
 body {
-  background-color: tan;
+  background-color: rgb(70, 83, 61);
 }
 
 .box {
   width: 95%;
-  background-color: antiquewhite;
-  border: 10px solid burlywood;
+  background-color: rgba(166, 209, 162, 0.534);
+  border: 10px solid antiquewhite;
   margin: 10px;
   padding: 10px;
   font-family: verdana;
+  color: antiquewhite;
+  border-radius: 10px;
 }
 
 .sidebar {
   width: 61%;
-  background-color: aliceblue;
+  background-color: rgba(166, 209, 162, 0.534);
   border: 10px solid antiquewhite;
   margin: 10px;
   padding: 10px;
   font-family: verdana;
   float: left;
+  color: antiquewhite;
+  border-radius: 10px;
 }
 
 .sidebar2 {
   width: 30%;
-  background-color: aliceblue;
+  background-color: rgba(166, 209, 162, 0.534);
   border: 10px solid antiquewhite;
   margin: 10px;
   padding: 10px;
   font-family: verdana;
   float: left;
+  color: antiquewhite;
+  border-radius: 10px;
 }
 
 .sidebar3 {
   width: 30%;
-  background-color: aliceblue;
+  background-color: rgba(166, 209, 162, 0.534);
   border: 10px solid antiquewhite;
   margin: 10px;
   padding: 10px;
   font-family: verdana;
   float: left;
+  color: antiquewhite;
+  border-radius: 10px;
 
 }
 
@@ -61,4 +72,17 @@ body {
   text-align: center;
   font-family: verdana;
   font-style: italic;
+  color:antiquewhite;
 }
+
+.title {
+  width: 30%;
+  background-color: rgba(166, 209, 162, 0.534);
+  border: 10px solid antiquewhite;
+  margin: auto;
+  padding: 10px;
+  font-family: verdana;
+  color: antiquewhite;
+  border-radius: 10px;
+  font-style: italic;
+  }
