@@ -1,37 +1,27 @@
 h1 {
-  font: arial;
+  font-family: verdana;
   text-align: center;
 }
 
-h2 {
+img { 
+  width: 25%;
+  height: 30%;
+  border: 5px solid gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
-}
-
-h3 { 
-
-}
-
-img {
-  float: left;
-  width: 20%;
-  height: 20%;
 }
 
 body {
-  background-color: antiquewhite;
-}
-
-.projects {
-  margin: 20px;
-  border: 50px black;
-  padding: 10px;
-  background-color: darkkhaki;
-  width: 20%;
-  border-width: 50px;
+  background-color: #DDAF94;
 }
 
 .sidebar {
-  width: 30%;
-  float: right;
-  background-color: skyblue;
+  width: 60%;
+  background-color: #9dc88d;
+  border: 10px solid black;
+  margin: 10px;
+  padding: 10px;
+  font-family: verdana;
 }
