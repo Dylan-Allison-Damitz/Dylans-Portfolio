@@ -12,7 +12,7 @@ h3 {
 }
 
 img {
-  float: right;
+  float: left;
   width: 20%;
   height: 20%;
 }
@@ -28,4 +28,10 @@ body {
   background-color: darkkhaki;
   width: 20%;
   border-width: 50px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: skyblue;
 }
