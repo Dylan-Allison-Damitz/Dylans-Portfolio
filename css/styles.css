@@ -14,14 +14,51 @@ img {
 }
 
 body {
-  background-color: #DDAF94;
+  background-color: tan;
 }
 
-.sidebar {
-  width: 60%;
-  background-color: #9dc88d;
-  border: 10px solid black;
+.box {
+  width: 95%;
+  background-color: antiquewhite;
+  border: 10px solid burlywood;
   margin: 10px;
   padding: 10px;
   font-family: verdana;
+}
+
+.sidebar {
+  width: 61%;
+  background-color: aliceblue;
+  border: 10px solid antiquewhite;
+  margin: 10px;
+  padding: 10px;
+  font-family: verdana;
+  float: left;
+}
+
+.sidebar2 {
+  width: 30%;
+  background-color: aliceblue;
+  border: 10px solid antiquewhite;
+  margin: 10px;
+  padding: 10px;
+  font-family: verdana;
+  float: left;
+}
+
+.sidebar3 {
+  width: 30%;
+  background-color: aliceblue;
+  border: 10px solid antiquewhite;
+  margin: 10px;
+  padding: 10px;
+  font-family: verdana;
+  float: left;
+
+}
+
+.description {
+  text-align: center;
+  font-family: verdana;
+  font-style: italic;
 }
