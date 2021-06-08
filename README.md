@@ -1,6 +1,5 @@
 # Dylans-Portfolio
 A custom portfolio designed to showcase Dylan's coding projects
-https://dylan-allison-damitz.github.io/Dylans-Portfolio/
 #### By _**Dylan Allison-Damitz**_
 
 ## Technologies Used
@@ -36,3 +35,7 @@ Copyright (c) 2021 Dylan Allison-Damitz
 ## Contact Information
 
 dylandamitz@gmail.com
+
+## GitHub Pages Project Link
+
+https://dylan-allison-damitz.github.io/Dylans-Portfolio/
